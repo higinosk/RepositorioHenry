@@ -38,7 +38,7 @@ Estoy emocionado de utilizar este repositorio como una forma de acompañar mi pr
 - [x] Nomenclaturas
 - [x] Control de flujo (if/else)
 - [x] Objeto Math
-- [ ] Homework
+- [x] Homework
 
 ## Módulo 4 🔁
 - [ ] M4: Objetivo de aprendizaje
