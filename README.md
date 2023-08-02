@@ -124,4 +124,4 @@ Estoy emocionado de utilizar este repositorio como una forma de acompañar mi pr
 
 ### HC 🏆
 - [x] Simulación de Henry Challenge
-- [ ] Henry Challenge
+- [x] Henry Challenge
