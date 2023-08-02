@@ -41,87 +41,87 @@ Estoy emocionado de utilizar este repositorio como una forma de acompañar mi pr
 - [x] Homework
 
 ## Módulo 4 🔁
-- [ ] M4: Objetivo de aprendizaje
-- [ ] Operadores lógicos
-- [ ] Veracidad
-- [ ] Bucles For y While
-- [ ] Recursos adicionales
-- [ ] Homework
+- [x] M4: Objetivo de aprendizaje
+- [x] Operadores lógicos
+- [x] Veracidad
+- [x] Bucles For y While
+- [x] Recursos adicionales
+- [x] Homework
 
 ## Módulo 5 📋
-- [ ] M5: Objetivo de aprendizaje
-- [ ] Introducción a los Arrays
-- [ ] Métodos de Arrays
-- [ ] Otros métodos
-- [ ] Bucles o ciclos en los Arrays
-- [ ] Homework
+- [x] M5: Objetivo de aprendizaje
+- [x] Introducción a los Arrays
+- [x] Métodos de Arrays
+- [x] Otros métodos
+- [x] Bucles o ciclos en los Arrays
+- [x] Homework
 
 ## Módulo 6 🧱
-- [ ] M6: Objetivo de aprendizaje
-- [ ] Introducción a los objetos
-- [ ] Trabajando con objetos
-- [ ] Dot-Notation y Bracket-Notation
-- [ ] Objetos avanzados
-- [ ] Homework
+- [x] M6: Objetivo de aprendizaje
+- [x] Introducción a los objetos
+- [x] Trabajando con objetos
+- [x] Dot-Notation y Bracket-Notation
+- [x] Objetos avanzados
+- [x] Homework
 
 ## Módulo 7 🏗️
-- [ ] M7: Objetivo de aprendizaje
-- [ ] Introducción a las Clases
-- [ ] Prototipos y herencias
-- [ ] Extensión de clase
-- [ ] Homework
+- [x] M7: Objetivo de aprendizaje
+- [x] Introducción a las Clases
+- [x] Prototipos y herencias
+- [x] Extensión de clase
+- [x] Homework
 
 ## Módulo 8 ⚙️
-- [ ] M8: Objetivo de aprendizaje
-- [ ] Callbacks
-- [ ] Homework
+- [x] M8: Objetivo de aprendizaje
+- [x] Callbacks
+- [x] Homework
 
 ## HTML/CSS 🔧
-- [ ] Introducción al curso
+- [x] Introducción al curso
 
 #### HTML 🌐 
-- [ ] Introducción al módulo
-- [ ] Estructura básica de un documento HTML
-- [ ] Homework 1
-- [ ] Etiquetas de contenido
-- [ ] Homework 2
-- [ ] Etiquetas de textos y formatos
-- [ ] Homework 3
-- [ ] Etiqueta de imagen
-- [ ] Homework 4
-- [ ] Tablas
-- [ ] Homework 5
-- [ ] Listas
-- [ ] Homework 6
-- [ ] Enlaces
-- [ ] Homework 7
-- [ ] Elementos en bloque y en línea
-- [ ] Homework 8
-- [ ] Formularios (tipos de inputs, funcionamiento)
-- [ ] Homework 9
-- [ ] ¡Pongamos a prueba lo aprendido! HTML
+- [x] Introducción al módulo
+- [x] Estructura básica de un documento HTML
+- [x] Homework 1
+- [x] Etiquetas de contenido
+- [x] Homework 2
+- [x] Etiquetas de textos y formatos
+- [x] Homework 3
+- [x] Etiqueta de imagen
+- [x] Homework 4
+- [x] Tablas
+- [x] Homework 5
+- [x] Listas
+- [x] Homework 6
+- [x] Enlaces
+- [x] Homework 7
+- [x] Elementos en bloque y en línea
+- [x] Homework 8
+- [x] Formularios (tipos de inputs, funcionamiento)
+- [x] Homework 9
+- [x] ¡Pongamos a prueba lo aprendido! HTML
 
 ### CSS 🎨
-- [ ] Introducción al módulo
-- [ ] Formas de implementar CSS
-- [ ] Selectores, herencia y cascada, prioridades
-- [ ] Estilos de texto, listas y unidades de medida
-- [ ] Estilos de fondos
-- [ ] Pseudo-classes
-- [ ] Homework 10
-- [ ] Estilo de imágenes
-- [ ] Display y Box Modeling
-- [ ] Flexbox
-- [ ] Homework 11
-- [ ] Grids
-- [ ] ¡Pongamos a prueba lo aprendido! CSS
+- [x] Introducción al módulo
+- [x] Formas de implementar CSS
+- [x] Selectores, herencia y cascada, prioridades
+- [x] Estilos de texto, listas y unidades de medida
+- [x] Estilos de fondos
+- [x] Pseudo-classes
+- [x] Homework 10
+- [x] Estilo de imágenes
+- [x] Display y Box Modeling
+- [x] Flexbox
+- [x] Homework 11
+- [x] Grids
+- [x] ¡Pongamos a prueba lo aprendido! CSS
 
 ### MATERIAL EXTRA HTML/CSS 📚
-- [ ] HTML
-- [ ] CSS
-- [ ] Registra tu progreso
-- [ ] Feedback
+- [x] HTML
+- [x] CSS
+- [x] Registra tu progreso
+- [x] Feedback
 
 ### HC 🏆
-- [ ] Simulación de Henry Challenge
+- [x] Simulación de Henry Challenge
 - [ ] Henry Challenge
